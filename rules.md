@@ -1,17 +1,16 @@
 # rules
 
-- No Spam
-- Being Toxic is not allowed (Results in a Ban)
-- Being Disrespectful to other server members (Results in a One Hour Mute)
-- Drama is not allowed (Results on a kick)
-- Be polite
-- Give constructive criticism, not hate
-- Keep this server away from nsfw content. (Profile Pictures count.)
-- Keep this server safe and do not invite anyone from malicious groups, raids stuff like that.
-- Don't do drama or stupid discussions for stupid reasons.
-- Don't ping people for stupid or for unimportart/invalid reasons. And staff, don't change channel without permission.
-- Any discrimination such as homophobia, racism, sexism, enbyphobia, biphobia, transphobia, xenophobia, serophobia or aphobia can result in a ban.
-- Don’t post gore or any weird animation containing blood and/or graphic stuff. please don’t.
-- FOR THE LOVE OF GOD, PLEASE DO NOT TALK ABOUT SUSIDE OR AMONG US BECAUSE NO ONE GIVES A SHIT
-- Admins have the final say so listen to them or else I'll shank you
-- Admins do not abuse your power
+## If you don't understand what the SL# are about, [click here](https://icycoide.github.io/sancts)
+
+- no spam (SLX)
+- being toxic can result in (SL1)
+- being disrespectful to other members can also result in (SL1)
+- drama = (SL7)
+- be polite to others. (SL1)
+- give constructive criticism, not hate. (SL2)
+- please no nsfw content in the community. (SL8) (SL11)
+- ***don't raid the community.*** (SL11)
+- don't ping people for stupid or for unimportart/invalid reasons. (SL1)
+- any discrimination such as homophobia, racism, sexism, enbyphobia, biphobia, transphobia, xenophobia, serophobia or aphobia can result in (SL4)
+- don’t post gore or any weird picturing containing blood and/or graphic stuff. please don’t. (SL8) (SL11)
+- admins have the final say so listen to them or else i'll shank you. (SLX)
