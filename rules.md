@@ -14,5 +14,5 @@
 10. any discrimination such as homophobia, racism, sexism, enbyphobia, biphobia, transphobia, xenophobia, serophobia or aphobia can result in (SL4)
 11. don’t post gore or any weird picturing containing blood and/or graphic stuff. please don’t. (SL8) (SL11)
 12. don't post malicious programs in chat. (SL11)
-  13.1 don't tell people to run malicious commands either. (SL11)
+- 13.1 don't tell people to run malicious commands either. (SL11)
 14. admins have the final say so listen to them or else i'll shank you. (SLX)
