@@ -16,3 +16,4 @@
 12. don't post malicious programs in chat. (SL11)
 - 13.1 don't tell people to run malicious commands either. (SL11)
 14. admins have the final say so listen to them or else i'll shank you. (SLX)
+15. leaking personal information or content of members that is private is prohibited and will lead to (SL6), (SL8) and (SL11)
