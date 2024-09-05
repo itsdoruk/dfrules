@@ -1,6 +1,6 @@
-# rules
+# Official Rules
 
-## If you don't understand what the SL# are about, [click here](https://icycoide.github.io/sancts)
+## If you don't understand what the SL# are about, [click here](https://dumpsterfire.github.io/sancts)
 
 1. no spam (SLX)
 2. being toxic can result in (SL1)
