@@ -1,4 +1,4 @@
-# Icycoide Community Sanction System (ICSS)
+# Dumpster Fire Sanction System (DFSS)
 
 ## SL1
 
