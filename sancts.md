@@ -38,11 +38,11 @@ This is the second 1 week ban.
 
 ## SL10
 
-This is the third 1 month ban.
+This is the third 1 month ban. You cannot appeal.
 
 ## SL11
 
-This is the last permanent ban. Appealable in the [Issues Section under the "community appeal" label.](https://github.com/Icycoide/icycoide.github.io/issues)
+This is the permanent ban.
 
 ## SLX
 
