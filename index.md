@@ -1,6 +1,6 @@
-# Official Rules
+# Dumpster Fire Official Rules
 
-## If you don't understand what the SL# are about, [click here](https://dumpsterfire.github.io/sancts)
+## If you don't understand what the SL# are about, [click here](https://rules.dsplash.xyz/sancts)
 
 1. being toxic can result in (SL1)
 2. being disrespectful to other members can also result in (SL1)
